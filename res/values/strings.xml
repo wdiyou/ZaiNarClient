@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">ZaiNar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="welcomeimage">welcomeimage</string>
+    <string name="des_textlogo">textlogo</string>
+    <string name="des_tutorial">tutorialbutton</string>
+    <string name="textlogo">ZaiNar</string>
+    <string name="tabtitle_setting">Setting</string>
+    <string name="tabtitle_vs">Ventures</string>
+    <string name="title_activity_mainpanel">MainpanelActivity</string>
+    <string name="title_section3">Contact Us</string>
+    <string name="title_section2">Setting</string>
+    <string name="title_section1">Ventures</string>
+    <string name="title_activity_controlpanel">ControlpanelActivity</string>
+
+</resources>
